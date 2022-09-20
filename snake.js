@@ -1,1 +1,1 @@
-alert("LO1E-SWD4 rocks!");
+document.getElementById('snake');
